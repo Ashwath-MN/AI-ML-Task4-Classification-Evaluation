@@ -42,3 +42,4 @@ The Logistic Regression model achieved very strong classification performance wi
 
 ## Author
 Ashwath M N
+LinkedIn Post Link- https://www.linkedin.com/posts/ashwath-m-n-6038b536a_github-ashwath-mnai-ml-task4-classification-evaluation-activity-7439553333805314048-bFCk
